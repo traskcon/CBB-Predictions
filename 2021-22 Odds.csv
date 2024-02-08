@@ -291,7 +291,7 @@ t11132021,Campbell,56,NL,Duke,67,NL
 t11132021,Alabama State,60,NL,Missouri State,78,NL
 t11132021,Alcorn State,58,230,Portland,62,-270
 t11132021,Prairie View,49,1400,Michigan,77,-4000
-t11132021,Bellarmine,59,NL,MurrayState,78,NL
+t11132021,Bellarmine,59,NL,Murray State,78,NL
 t11132021,Mississippi Valley State,66,1500,California Baptist,95,-4500
 t11132021,Merrimack,35,600,Rutgers,48,-900
 t11142021,Yale,44,525,Seton Hall,80,-750
@@ -374,7 +374,7 @@ t11162021,Austin Peay,60,265,IPFW,65,-320
 t11162021,James Madison,79,125,Eastern Kentucky,78,-145
 t11162021,South Alabama,68,950,Alabama,73,-1800
 t11162021,Chicago State,56,NL,Loyola (IL),92,NL
-t11162021,MurrayState,77,-240,Illinois State,65,200
+t11162021,Murray State,77,-240,Illinois State,65,200
 t11162021,Saint Louis,74,450,Memphis,90,-600
 t11162021,Virginia,47,235,Houston,67,-275
 t11162021,Tarleton State,51,600,Wichita State,65,-900
@@ -694,7 +694,7 @@ t11222021,Drexel,87,110,Tulane,90,-130
 t11222021,Valparaiso,78,240,Jacksonville State,70,-280
 t11222021,Kent State,74,100,James Madison,69,-120
 t11222021,Wright State,63,-330,George Washington,74,270
-t11222021,East Tennessee State,66,190,MurrayState,58,-220
+t11222021,East Tennessee State,66,190,Murray State,58,-220
 t11222021,Missouri State,92,-950,Long Beach State,66,625
 t11222021,Bradley,70,105,Duquesne,78,-125
 t11222021,Brown,52,500,Colorado,54,-700
@@ -745,7 +745,7 @@ t11232021,Charlotte,55,-135,Drexel,67,115
 t11232021,Toledo,68,-140,Tulane,67,120
 t11232021,Valparaiso,61,-170,Coastal Carolina,64,150
 t11232021,James Madison,78,-120,Wright State,76,100
-t11232021,MurrayState,80,-650,Long Beach State,43,475
+t11232021,Murray State,80,-650,Long Beach State,43,475
 t11232021,Kent State,77,-215,George Washington,69,185
 t11232021,East Tennessee State,77,240,Missouri State,76,-280
 t11232021,Southern Utah,85,105,Yale,85,-125
@@ -808,7 +808,7 @@ t11242021,Jacksonville State,72,-155,Drexel,64,135
 t11242021,Tulane,64,-180,Valparaiso,68,160
 t11242021,Toledo,79,-310,Coastal Carolina,70,260
 t11242021,Wright State,76,-500,Long Beach State,85,400
-t11242021,James Madison,62,170,MurrayState,74,-190
+t11242021,James Madison,62,170,Murray State,74,-190
 t11242021,George Washington,54,450,Missouri State,72,-600
 t11242021,Kent State,51,-145,East Tennessee State,57,125
 t11242021,Loyola (IL),61,115,Michigan State,63,-135
@@ -1243,7 +1243,7 @@ t12042021,Youngstown State,82,-110,Green Bay,58,-110
 t12042021,Loyola Marymount,77,-330,Long Beach State,74,270
 t12042021,Duquesne,71,300,Marshall,72,-360
 t12042021,Old Dominion,60,270,George Mason,50,-330
-t12042021,Middle Tennessee,87,550,MurrayState,93,-800
+t12042021,Middle Tennessee,87,550,Murray State,93,-800
 t12042021,Northern Arizona,73,195,Idaho State,70,-230
 t12042021,Alabama,91,375,Gonzaga,82,-450
 t12042021,Portland State,69,750,Weber State,80,-1200
@@ -1441,7 +1441,7 @@ t12102021,Appalachian State,65,270,Furman,73,-330
 t12102021,IUPUI,44,310,Tennessee State,70,-370
 t12102021,Loyola (IL),69,-210,Vanderbilt,58,180
 t12102021,Cal State Northridge,54,550,North Dakota State,68,-800
-t12102021,MurrayState,74,400,Memphis,72,-500
+t12102021,Murray State,74,400,Memphis,72,-500
 t12102021,DePaul,62,280,Louisville,55,-340
 t12102021,Green Bay,55,300,Kansas City,64,-360
 t12102021,Milwaukee,54,700,Colorado,65,-1100
@@ -1703,7 +1703,7 @@ t12182021,Brigham Young,89,-255,Weber State,71,215
 t12182021,South Carolina,56,330,Clemson,70,-400
 t12182021,Texas A&M,83,-140,Oregon State,73,120
 t12182021,Southeast Missouri State,77,400,Pepperdine,83,-500
-t12182021,Chattanooga,76,175,MurrayState,87,-200
+t12182021,Chattanooga,76,175,Murray State,87,-200
 t12182021,Stephen F. Austin,72,1800,Kansas,80,-8000
 t12182021,Utah State,75,180,Iowa,94,-210
 t12182021,Auburn,74,-230,Saint Louis,70,195
@@ -1837,7 +1837,7 @@ t12222021,Western Carolina,82,400,Charlotte,98,-500
 t12222021,Pacific,53,325,California,73,-390
 t12222021,Youngstown State,52,800,West Virginia,82,-1400
 t12222021,Troy,69,245,Mercer,65,-290
-t12222021,MurrayState,58,550,Auburn,71,-800
+t12222021,Murray State,58,550,Auburn,71,-800
 t12222021,Northern Kentucky,61,1100,Indiana,79,-2500
 t12222021,College of Charleston,82,145,Old Dominion,80,-165
 t12222021,East Tennessee State,86,145,Georgia,84,-165
@@ -1954,7 +1954,7 @@ t12302021,South Dakota State,90,-140,North Dakota State,86,120
 t12302021,South Alabama,87,-155,UT Arlington,89,135
 t12302021,Troy,78,235,Texas State,63,-275
 t12302021,Denver,66,800,Oral Roberts,83,-1400
-t12302021,Southeast Missouri State,81,1100,MurrayState,106,-2500
+t12302021,Southeast Missouri State,81,1100,Murray State,106,-2500
 t12302021,Chicago State,63,1500,Grand Canyon,80,-5000
 t12302021,Abilene Christian,80,-125,Utah Valley,76,105
 t12302021,Tennessee-Martin,65,195,Austin Peay,62,-225
@@ -2218,7 +2218,7 @@ t01082022,Southeast Missouri State,84,110,Tennessee State,95,-130
 t01082022,North Dakota,74,220,Denver,93,-260
 t01082022,The Citadel,67,775,Chattanooga,85,-1300
 t01082022,Cal Poly,55,115,Cal State Northridge,68,-135
-t01082022,MurrayState,74,-700,SIU Edwardsville,69,500
+t01082022,Murray State,74,-700,SIU Edwardsville,69,500
 t01082022,Utah Tech,71,475,Utah Valley,79,-650
 t01082022,Belmont,81,-2000,Tennessee-Martin,55,1000
 t01082022,Baylor,76,-550,TCU,64,425
@@ -2426,7 +2426,7 @@ t01132022,Louisiana,73,-135,UT Arlington,83,115
 t01132022,Denver,71,240,South Dakota,80,-280
 t01132022,Western Illinois,73,-450,North Dakota,68,375
 t01132022,Illinois-Chicago,81,110,Milwaukee,77,-130
-t01132022,Tennessee State,44,1800,MurrayState,67,-8000
+t01132022,Tennessee State,44,1800,Murray State,67,-8000
 t01132022,IUPUI,54,375,Green Bay,69,-450
 t01132022,Chicago State,63,375,Texas-Rio Grande Valley,85,-450
 t01132022,Sam Houston State,73,-215,Lamar,56,185
@@ -2526,7 +2526,7 @@ t01152022,Portland State,67,140,Sacramento State,62,-160
 t01152022,Toledo,91,-160,Bowling Green State,78,140
 t01152022,Louisiana,68,175,Texas State,72,-200
 t01152022,Omaha,70,330,South Dakota,105,-400
-t01152022,MurrayState,82,210,Belmont,60,-250
+t01152022,Murray State,82,210,Belmont,60,-250
 t01152022,Georgia Southern,67,330,South Alabama,73,-400
 t01152022,Oklahoma State,61,750,Baylor,54,-1200
 t01152022,Missouri State,74,-185,Valparaiso,57,165
@@ -2622,7 +2622,7 @@ t01172022,Utah,62,110,Arizona State,64,-130
 t01172022,James Madison,67,-150,Elon,90,130
 t01172022,Pennsylvania,64,160,Princeton,74,-180
 t01172022,Charlotte,67,160,Florida Atlantic,96,-180
-t01172022,MurrayState,72,-8000,Eastern Illinois,46,1800
+t01172022,Murray State,72,-8000,Eastern Illinois,46,1800
 t01172022,Yale,66,105,Brown,63,-125
 t01172022,Indiana,78,-380,Nebraska,71,320
 t01172022,Towson,91,-750,William & Mary,69,525
@@ -2765,7 +2765,7 @@ t01202022,Tennessee State,63,120,Southeast Missouri State,85,-140
 t01202022,North Dakota State,77,-130,Kansas City,80,110
 t01202022,Texas-Rio Grande Valley,56,550,Utah Valley,66,-800
 t01202022,North Dakota,76,1600,Oral Roberts,80,-6000
-t01202022,Eastern Illinois,51,2700,MurrayState,91,-8000
+t01202022,Eastern Illinois,51,2700,Murray State,91,-8000
 t01202022,Detroit Mercy,63,-210,Green Bay,70,180
 t01202022,California Baptist,88,180,Tarleton State,84,-210
 t01202022,Seattle,72,210,Abilene Christian,62,-250
@@ -2902,7 +2902,7 @@ t01222022,Wright State,97,-150,Illinois-Chicago,81,130
 t01222022,North Dakota,74,425,Kansas City,79,-550
 t01222022,North Dakota State,72,250,Oral Roberts,71,-300
 t01222022,North Carolina,76,105,Wake Forest,98,-125
-t01222022,Tennessee-Martin,66,2000,MurrayState,74,-10000
+t01222022,Tennessee-Martin,66,2000,Murray State,74,-10000
 t01222022,South Dakota,90,105,St. Thomas (MN),79,-125
 t01222022,Seattle,76,115,Tarleton State,68,-135
 t01222022,San Diego,73,-125,Pacific,65,105
@@ -2982,7 +2982,7 @@ t01242022,Tennessee State,54,650,Morehead State,67,-1000
 t01242022,Louisville,52,170,Virginia,64,-190
 t01242022,Saint Joseph's,71,250,George Mason,77,-300
 t01242022,Virginia Tech,68,190,North Carolina,78,-220
-t01242022,Tennessee Tech,53,1100,MurrayState,79,-2500
+t01242022,Tennessee Tech,53,1100,Murray State,79,-2500
 t01242022,SIU Edwardsville,70,110,Tennessee-Martin,76,-130
 t01242022,Sacramento State,65,160,Northern Arizona,70,-180
 t01242022,San Diego,74,360,Santa Clara,78,-430
@@ -3111,7 +3111,7 @@ t01272022,Hofstra,76,-140,College of Charleston,73,120
 t01272022,Drexel,88,150,James Madison,82,-170
 t01272022,Little Rock,49,450,Coastal Carolina,65,-600
 t01272022,Milwaukee,53,-125,Robert Morris,77,105
-t01272022,MurrayState,80,-800,Tennessee Tech,75,550
+t01272022,Murray State,80,-800,Tennessee Tech,75,550
 t01272022,Rice,63,450,Louisiana Tech,80,-600
 t01272022,Georgia Southern,50,-105,Louisiana-Monroe,45,-115
 t01272022,Georgia State,68,110,Louisiana,64,-130
@@ -3248,7 +3248,7 @@ t01292022,North Dakota,58,500,South Dakota,71,-700
 t01292022,UT Arlington,53,240,Texas State,58,-280
 t01292022,Utah,73,105,Washington,77,-125
 t01292022,SIU Edwardsville,77,110,Southeast Missouri State,85,-130
-t01292022,Morehead State,66,400,MurrayState,77,-500
+t01292022,Morehead State,66,400,Murray State,77,-500
 t01292022,Mississippi State,50,260,Texas Tech,76,-310
 t01292022,Virginia,65,140,Notre Dame,69,-160
 t01292022,Furman,80,-240,Mercer,50,200
@@ -3476,7 +3476,7 @@ t02032022,UCLA,66,250,Arizona,76,-300
 t02032022,Robert Morris,75,220,Illinois-Chicago,80,-260
 t02032022,Western Illinois,90,240,Oral Roberts,85,-280
 t02032022,St. Thomas (MN),72,245,Kansas City,81,-290
-t02032022,MurrayState,65,-750,Austin Peay,53,525
+t02032022,Murray State,65,-750,Austin Peay,53,525
 t02032022,Belmont,88,-1600,Tennessee State,61,900
 t02032022,San Jose State,62,1500,Utah State,78,-5000
 t02032022,Boise State,65,-110,Wyoming,72,-110
@@ -3636,7 +3636,7 @@ t02052022,Kentucky,66,-105,Alabama,55,-115
 t02052022,California Baptist,50,350,Grand Canyon,56,-420
 t02052022,Chicago State,54,650,Tarleton State,57,-1000
 t02052022,Western Illinois,82,105,Kansas City,91,-125
-t02052022,SIU Edwardsville,59,1500,MurrayState,79,-5000
+t02052022,SIU Edwardsville,59,1500,Murray State,79,-5000
 t02052022,Central Florida,60,260,Memphis,88,-310
 t02052022,St. Thomas (MN),66,600,Oral Roberts,88,-900
 t02052022,San Francisco,74,-1400,Portland,71,800
@@ -3865,7 +3865,7 @@ t02102022,Duke,82,-300,Clemson,64,250
 t02102022,Southeast Missouri State,66,135,Austin Peay,74,-155
 t02102022,Tennessee Tech,73,-500,Eastern Illinois,62,400
 t02102022,Tennessee-Martin,63,-120,SIU Edwardsville,71,100
-t02102022,MurrayState,73,-1200,Tennessee State,62,750
+t02102022,Murray State,73,-1200,Tennessee State,62,750
 t02102022,Pacific,51,NA,Gonzaga,89,NA
 t02102022,San Diego,57,800,Saint Mary's (CA),86,-1400
 t02102022,Idaho State,79,150,Idaho,70,-170
@@ -3958,7 +3958,7 @@ t02122022,Southern Utah,83,-340,Sacramento State,57,280
 t02122022,TCU,69,450,Texas Tech,82,-600
 t02122022,Virginia Commonwealth,85,110,George Mason,70,-130
 t02122022,Valparaiso,66,550,Missouri State,84,-800
-t02122022,MurrayState,57,-150,Morehead State,53,130
+t02122022,Murray State,57,-150,Morehead State,53,130
 t02122022,Florida,57,400,Kentucky,78,-500
 t02122022,South Dakota,84,-180,Denver,76,160
 t02122022,New Mexico State,68,-160,Utah Valley,72,140
@@ -4217,7 +4217,7 @@ t02172022,Georgia Southern,63,400,Georgia State,79,-500
 t02172022,South Alabama,71,-115,Coastal Carolina,68,-105
 t02172022,IUPUI,66,800,Robert Morris,56,-1400
 t02172022,North Texas,54,-145,Florida Atlantic,51,125
-t02172022,Austin Peay,56,1200,MurrayState,91,-3000
+t02172022,Austin Peay,56,1200,Murray State,91,-3000
 t02172022,East Carolina,65,100,South Florida,57,-120
 t02172022,UTEP,63,375,Louisiana Tech,60,-450
 t02172022,Louisiana,78,-165,Louisiana-Monroe,77,145
@@ -4339,7 +4339,7 @@ t02192022,Eastern Illinois,49,475,Tennessee State,63,-650
 t02192022,Hawaii,52,210,UC Irvine,77,-250
 t02192022,South Alabama,51,-115,Appalachian State,69,-105
 t02192022,Miami (OH),78,-165,Northern Illinois,75,145
-t02192022,MurrayState,62,-2000,Tennessee-Martin,60,1000
+t02192022,Murray State,62,-2000,Tennessee-Martin,60,1000
 t02192022,Tennessee Tech,73,-110,Austin Peay,69,-110
 t02192022,Ball State,91,145,Bowling Green State,82,-165
 t02192022,Georgetown,66,1400,Villanova,74,-4000
@@ -4611,7 +4611,7 @@ t02242022,Tennessee State,92,190,Tennessee Tech,56,-220
 t02242022,Austin Peay,68,-105,SIU Edwardsville,64,-115
 t02242022,Morehead State,82,-2000,Eastern Illinois,46,1000
 t02242022,Gonzaga,89,-550,San Francisco,73,425
-t02242022,Belmont,43,135,MurrayState,76,-155
+t02242022,Belmont,43,135,Murray State,76,-155
 t02242022,Montana,74,195,Southern Utah,82,-230
 t02242022,Ohio State,86,260,Illinois,83,-310
 t02242022,UC Santa Barbara,76,-140,UC Davis,69,120
@@ -4710,7 +4710,7 @@ t02262022,Abilene Christian,71,140,Stephen F. Austin,73,-160
 t02262022,San Francisco,78,-1000,San Diego,62,650
 t02262022,Western Michigan,78,330,Bowling Green State,67,-400
 t02262022,Missouri State,88,-1200,Evansville,79,750
-t02262022,MurrayState,70,-700,Southeast Missouri State,68,500
+t02262022,Murray State,70,-700,Southeast Missouri State,68,500
 t02262022,Georgia Tech,56,425,Notre Dame,90,-550
 t02262022,St. Bonaventure,54,-330,Saint Joseph's,52,270
 t02262022,Loyola (IL),96,-140,Northern Iowa,102,120
@@ -5000,7 +5000,7 @@ t03042022,Illinois State,65,270,Northern Iowa,78,-340
 t03042022,Bradley,50,220,Loyola (IL),66,-270
 t03042022,Valparaiso,58,410,Missouri State,67,-560
 t03042022,Southern Illinois,52,145,Drake,65,-170
-t03042022,Southeast Missouri State,74,1005,MurrayState,88,-1810
+t03042022,Southeast Missouri State,74,1005,Murray State,88,-1810
 t03042022,Morehead State,53,155,Belmont,51,-185
 t03042022,Loyola Marymount,60,475,Brigham Young,85,-650
 t03042022,San Diego,55,120,Portland,73,-140
@@ -5095,7 +5095,7 @@ t03052022,Drake,79,105,Missouri State,78,-125
 t03052022,Northeastern,68,-245,William & Mary,63,195
 t03052022,Omaha,79,2375,South Dakota State,87,-4750
 t03052022,Denver,62,345,North Dakota State,82,-445
-t03052022,Morehead State,67,245,MurrayState,71,-305
+t03052022,Morehead State,67,245,Murray State,71,-305
 t03052022,Brigham Young,63,120,San Francisco,75,-140
 t03052022,Portland,67,290,Santa Clara,91,-360
 t03052022,Bethune-Cookman,73,180,Florida A&M,84,-220
@@ -5378,7 +5378,7 @@ t03172022,Richmond,67,400,Iowa,63,-500
 t03172022,South Dakota State,57,130,Providence,66,-150
 t03172022,Michigan,75,-125,Colorado State,63,105
 t03172022,Longwood,56,1200,Tennessee,88,-3000
-t03172022,San Francisco,87,115,MurrayState,92,-135
+t03172022,San Francisco,87,115,Murray State,92,-135
 t03172022,Saint Peter's,85,1500,Kentucky,79,-5000
 t03172022,Norfolk State,49,2000,Baylor,85,-10000
 t03172022,Marquette,63,160,North Carolina,95,-180
@@ -5408,7 +5408,7 @@ t03192022,TCU,69,100,Seton Hall,42,-120
 t03192022,Richmond,51,150,Providence,79,-170
 t03192022,New Mexico State,48,245,Arkansas,53,-290
 t03192022,Michigan,76,250,Tennessee,68,-300
-t03192022,Saint Peter's,70,310,MurrayState,60,-370
+t03192022,Saint Peter's,70,310,Murray State,60,-370
 t03192022,North Carolina,93,190,Baylor,86,-220
 t03192022,Creighton,72,600,Kansas,79,-900
 t03192022,Memphis,78,450,Gonzaga,82,-600
