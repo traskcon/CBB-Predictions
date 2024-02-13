@@ -232,23 +232,17 @@ t11122021,Arkansas-Pine Bluff,71,2000,Colorado State,91,-6000
 t11122021,Long Island University,60,475,Fresno State,84,-650
 t11122021,Texas Southern,58,800,Saint Mary's (CA),67,-1400
 t11122021,Loyola (MD),75,-450,South Carolina State,65,375
-t11132021,Cal State Northridge,52,NL,Notre Dame,68,NL
 t11132021,Omaha,69,400,Ball State,73,-500
 t11132021,Georgia Southern,53,200,South Florida,41,-240
 t11132021,Harvard,87,320,Iona,90,-380
 t11132021,Illinois-Chicago,74,130,Valparaiso,70,-150
 t11132021,Air Force,59,750,Tulsa,58,-1200
-t11132021,Dartmouth,69,NL,Georgetown,60,NL
-t11132021,Central Florida,95,NL,Miami (FL),89,NL
-t11132021,Saint Peter's,70,NL,St. John's (NY),91,NL
 t11132021,South Alabama,58,550,Wichita State,64,-800
 t11132021,Old Dominion,53,155,James Madison,58,-175
 t11132021,Evansville,43,650,Belmont,81,-1000
-t11132021,Central Michigan,66,NL,DePaul,99,NL
 t11132021,Youngstown State,97,165,Southeast Missouri State,79,-185
 t11132021,New Mexico,76,700,Colorado,87,-1100
 t11132021,Montana,49,475,Mississippi State,86,-650
-t11132021,Ohio,67,NL,Cleveland State,56,NL
 t11132021,Monmouth,79,145,Towson,71,-165
 t11132021,Georgia,68,425,Cincinnati,73,-550
 t11132021,Eastern Kentucky,77,180,Milwaukee,71,-210
@@ -257,7 +251,6 @@ t11132021,Delaware,83,-145,Siena,63,125
 t11132021,Hofstra,73,165,Duquesne,63,-185
 t11132021,Southern California,76,-250,Temple,71,210
 t11132021,California,52,220,Nevada-Las Vegas,55,-260
-t11132021,Troy,59,NL,Butler,70,NL
 t11132021,Davidson,60,230,San Francisco,65,-270
 t11132021,UTEP,71,280,New Mexico State,77,-340
 t11132021,Boise State,50,-135,UC Irvine,58,115
@@ -265,33 +258,24 @@ t11132021,Sacramento State,56,1000,Utah,89,-2000
 t11132021,George Washington,55,-130,UC San Diego,75,110
 t11132021,Texas,74,270,Gonzaga,86,-330
 t11132021,Pacific,61,-125,Hawaii,73,105
-t11132021,Coppin State,54,NL,Connecticut,89,NL
 t11132021,Southern,73,550,Tulane,70,-800
 t11132021,Mount St. Mary's,60,180,Saint Joseph's,80,-210
-t11132021,Florida Gulf Coast,77,NL,Loyola (IL),89,NL
 t11132021,Vermont,57,450,Maryland,68,-600
 t11132021,Mercer,85,160,Winthrop,88,-180
 t11132021,North Carolina A&T,54,-135,Jacksonville,63,115
 t11132021,Colgate,74,270,NC State,77,-330
 t11132021,Lamar,75,500,Miami (OH),104,-700
 t11132021,St. Thomas (MN),91,270,St. Francis (NY),73,-330
-t11132021,Hartford,79,NL,Army,86,NL
 t11132021,Gardner-Webb,69,950,Arkansas,86,-1800
-t11132021,Howard,76,NL,Bradley,64,NL
 t11132021,Tennessee State,59,145,Norfolk State,66,-165
 t11132021,Albany (NY),64,290,La Salle,67,-350
 t11132021,Loyola (MD),72,300,College of Charleston,79,-360
-t11132021,Alabama A&M,47,NL,Jacksonville State,70,NL
 t11132021,Massachusetts-Lowell,59,900,Dayton,58,-1600
-t11132021,NJIT,73,NL,Lehigh,56,NL
 t11132021,Wagner,58,450,Virginia Commonwealth,44,-600
 t11132021,North Carolina Central,51,1300,Memphis,90,-3900
 t11132021,Lipscomb,93,-800,South Carolina State,81,550
-t11132021,Campbell,56,NL,Duke,67,NL
-t11132021,Alabama State,60,NL,Missouri State,78,NL
 t11132021,Alcorn State,58,230,Portland,62,-270
 t11132021,Prairie View,49,1400,Michigan,77,-4000
-t11132021,Bellarmine,59,NL,Murray State,78,NL
 t11132021,Mississippi Valley State,66,1500,California Baptist,95,-4500
 t11132021,Merrimack,35,600,Rutgers,48,-900
 t11142021,Yale,44,525,Seton Hall,80,-750
@@ -370,10 +354,9 @@ t11162021,Jacksonville State,65,-170,Troy,69,150
 t11162021,Yale,82,-160,Siena,54,140
 t11162021,Hofstra,74,200,Iona,82,-240
 t11162021,Wright State,52,900,Purdue,96,-1600
-t11162021,Austin Peay,60,265,IPFW,65,-320
+t11162021,Austin Peay,60,265,Purdue Fort Wayne,65,-320
 t11162021,James Madison,79,125,Eastern Kentucky,78,-145
 t11162021,South Alabama,68,950,Alabama,73,-1800
-t11162021,Chicago State,56,NL,Loyola (IL),92,NL
 t11162021,Murray State,77,-240,Illinois State,65,200
 t11162021,Saint Louis,74,450,Memphis,90,-600
 t11162021,Virginia,47,235,Houston,67,-275
@@ -409,7 +392,6 @@ t11162021,New Orleans,67,1500,Northwestern,83,-5000
 t11162021,Alabama State,60,950,Iowa State,68,-1800
 t11162021,Central Connecticut State,65,1500,NC State,79,-5000
 t11162021,American,57,750,Georgetown,79,-1200
-t11162021,North Carolina Central,69,NL,Iowa,86,NL
 t11162021,Jackson State,64,270,California Baptist,77,-330
 t11172021,IUPUI,57,425,UTSA,60,-550
 t11172021,Boston College,49,180,Rhode Island,57,-210
@@ -438,7 +420,6 @@ t11172021,Houston Christian,39,1800,Texas A&M,73,-8000
 t11172021,Denver,67,130,Texas A&M-Corpus Christi,69,-150
 t11172021,Central Connecticut State,53,350,Massachusetts-Lowell,77,-420
 t11172021,Merrimack,51,-135,Army,74,115
-t11172021,Long Island University,40,NL,Connecticut,93,NL
 t11172021,Lipscomb,78,425,Dayton,59,-550
 t11172021,Binghamton,77,-140,Columbia,85,120
 t11172021,Rider,74,-140,Bucknell,81,120
@@ -446,11 +427,9 @@ t11172021,Harvard,60,-270,Albany (NY),53,230
 t11172021,Charleston Southern,59,1200,Wake Forest,95,-3000
 t11172021,Loyola (MD),49,-200,Coppin State,71,175
 t11172021,Stetson,65,425,Miami (OH),80,-550
-t11172021,Central Arkansas,47,NL,Baylor,92,NL
 t11172021,Prairie View,64,575,Grand Canyon,91,-850
 t11172021,Texas Southern,57,-145,Air Force,61,125
 t11172021,Bellarmine,64,950,Saint Mary's (CA),73,-1800
-t11172021,North Florida,63,NL,UCLA,98,NL
 t11182021,Green Bay,58,375,UNC Greensboro,60,-450
 t11182021,Massachusetts,73,125,Weber State,88,-145
 t11182021,Milwaukee,45,850,Florida,81,-1500
@@ -483,16 +462,12 @@ t11182021,Tennessee Tech,55,-130,UNC Asheville,61,110
 t11182021,New Hampshire,58,650,Providence,69,-1000
 t11182021,South Carolina Upstate,43,950,East Tennessee State,56,-1800
 t11182021,Campbell,67,280,Marshall,65,-340
-t11182021,Alabama State,82,NL,Iowa,108,NL
 t11182021,St. Francis (NY),59,950,Penn State,74,-1800
 t11182021,Presbyterian,45,800,Cincinnati,79,-1400
 t11182021,Boston University,75,-160,Hartford,70,140
 t11182021,Saint Francis (PA),55,1200,Virginia Tech,85,-3000
 t11182021,Southeastern Louisiana,61,1200,Southern Methodist,78,-3000
-t11182021,Stony Brook,59,NL,Kansas,88,NL
 t11182021,Nicholls State,50,800,TCU,63,-1400
-t11182021,McNeese State,46,NL,Louisiana State,85,NL
-t11182021,Fairleigh Dickinson,46,NL,Northwestern,82,NL
 t11182021,Arkansas-Pine Bluff,74,575,Portland,86,-850
 t11182021,Morgan State,80,400,Seattle,93,-500
 t11192021,UNC Greensboro,90,160,Massachusetts,93,-180
@@ -505,7 +480,7 @@ t11192021,Tennessee-Martin,67,750,Florida Atlantic,75,-1200
 t11192021,Hofstra,67,475,Maryland,69,-650
 t11192021,Siena,65,800,Georgetown,83,-1400
 t11192021,Idaho State,60,500,Nebraska,78,-700
-t11192021,IPFW,49,475,Minnesota,78,-650
+t11192021,Purdue Fort Wayne,49,475,Minnesota,78,-650
 t11192021,Auburn,58,-900,South Florida,52,600
 t11192021,Ohio,59,525,Kentucky,77,-750
 t11192021,George Mason,64,-145,James Madison,67,125
@@ -548,12 +523,10 @@ t11192021,Mount St. Mary's,74,175,Robert Morris,70,-200
 t11192021,Hampton,60,850,Wofford,77,-1500
 t11192021,North Alabama,51,150,Manhattan,55,-170
 t11192021,Western Carolina,75,135,Maryland-Baltimore County,91,-155
-t11192021,Lafayette,55,NL,Duke,88,NL
 t11192021,Stetson,60,-120,Lamar,59,100
 t11192021,Rice,83,-280,New Orleans,78,240
 t11192021,Southern,68,260,South Dakota,71,-310
 t11192021,Louisiana Tech,83,-1100,Northwestern State,64,700
-t11192021,Bellarmine,50,NL,Gonzaga,92,NL
 t11202021,Monmouth,87,-125,Saint Joseph's,75,105
 t11202021,Stanford,48,750,Baylor,86,-1200
 t11202021,Richmond,70,170,Drake,73,-190
@@ -568,13 +541,11 @@ t11202021,Troy,80,-450,Tennessee-Martin,67,375
 t11202021,Illinois-Chicago,63,1000,Loyola (IL),80,-2000
 t11202021,Montana State,78,130,New Mexico,81,-150
 t11202021,Chattanooga,56,145,Virginia Commonwealth,54,-165
-t11202021,Chicago State,50,NL,UC Santa Barbara,81,NL
 t11202021,Niagara,67,-410,St. Thomas (MN),76,340
 t11202021,Eastern Michigan,59,1200,Michigan State,83,-3000
 t11202021,Mercer,58,450,Saint Louis,75,-600
 t11202021,Georgia State,77,-1100,William & Mary,59,700
 t11202021,VMI,74,-110,Marist,78,-110
-t11202021,San Jose State,45,NL,Texas,79,NL
 t11202021,North Dakota,79,375,Florida Atlantic,98,-450
 t11202021,Western Illinois,80,400,DePaul,84,-500
 t11202021,Omaha,47,575,Montana,68,-850
@@ -589,7 +560,6 @@ t11202021,Bradley,62,-155,Brown,65,135
 t11202021,Duquesne,76,375,Colorado,84,-450
 t11202021,Utah,68,-310,Boston College,61,260
 t11202021,Tulsa,77,150,Rhode Island,71,-170
-t11202021,Binghamton,63,NL,Connecticut,87,NL
 t11202021,Bryant,75,-1500,Bethune-Cookman,81,850
 t11202021,Central Connecticut State,65,650,Quinnipiac,76,-1000
 t11202021,North Carolina A&T,63,700,Wake Forest,87,-1100
@@ -600,11 +570,9 @@ t11202021,Army,58,165,La Salle,61,-185
 t11202021,UNC Wilmington,67,-420,Delaware State,63,350
 t11202021,Oral Roberts,67,-700,Central Arkansas,70,500
 t11202021,Colgate,100,450,Syracuse,85,-600
-t11202021,Incarnate Word,62,NL,Texas Tech,84,NL
 t11202021,Georgia Southern,86,-550,Hampton,66,425
 t11202021,Navy,47,-300,Radford,33,250
 t11202021,Maryland-Baltimore County,55,130,Longwood,82,-150
-t11202021,Fairleigh Dickinson,74,NL,St. John's (NY),87,NL
 t11202021,Manhattan,76,650,Liberty,60,-1000
 t11202021,Bucknell,100,270,Illinois State,105,-330
 t11202021,Albany (NY),64,450,Eastern Kentucky,77,-600
@@ -626,7 +594,6 @@ t11212021,UNC Greensboro,71,-135,Florida International,74,115
 t11212021,Georgia Southern,52,265,Wofford,70,-320
 t11212021,Louisiana,44,550,Indiana,76,-800
 t11212021,Northern Colorado,70,110,California Baptist,74,-130
-t11212021,Temple,75,NL,Elon,58,NL
 t11212021,Boise State,60,105,Mississippi,50,-125
 t11212021,Clemson,59,125,West Virginia,66,-145
 t11212021,St. Bonaventure,70,-155,Marquette,54,135
@@ -651,7 +618,6 @@ t11212021,Alabama A&M,41,425,UAB,86,-550
 t11212021,Navy,77,-550,Furman,66,425
 t11212021,Jackson State,66,145,Marshall,80,-165
 t11212021,Western Carolina,64,850,Longwood,53,-1500
-t11212021,Southern,59,NL,Nebraska,82,NL
 t11212021,Houston Christian,61,375,Denver,74,-450
 t11212021,Merrimack,43,800,Virginia Tech,72,-1400
 t11212021,Texas A&M-Corpus Christi,77,330,UTSA,58,-400
@@ -672,15 +638,12 @@ t11222021,College of Charleston,66,800,Oklahoma State,96,-1400
 t11222021,Belmont,53,210,Louisiana State,83,-250
 t11222021,Texas-Rio Grande Valley,82,190,Northern Arizona,80,-220
 t11222021,Tarleton State,53,260,North Dakota State,54,-310
-t11222021,Western Michigan,61,NL,Iowa,109,NL
-t11222021,The Citadel,81,NL,Duke,107,NL
 t11222021,UC Riverside,52,155,UTEP,40,-175
 t11222021,Kansas City,74,115,Idaho State,58,-135
 t11222021,Wyoming,68,135,Grand Canyon,61,-155
 t11222021,George Mason,74,-185,Washington,77,165
 t11222021,Chicago State,58,1100,Pacific,74,-2500
 t11222021,TCU,66,-160,Santa Clara,85,140
-t11222021,Gonzaga,107,NL,Central Michigan,54,NL
 t11222021,Utah Tech,71,1300,Southern California,98,-3500
 t11222021,Fresno State,70,-260,Pepperdine,63,220
 t11222021,Northern Illinois,60,130,Little Rock,67,-150
@@ -702,7 +665,6 @@ t11222021,Creighton,66,-220,Southern Illinois,64,190
 t11222021,Colorado State,71,-350,Northeastern,61,290
 t11222021,Texas A&M,58,140,Wisconsin,69,-160
 t11222021,Butler,52,375,Houston,70,-450
-t11222021,Oregon,73,NL,Chaminade,49,NL
 t11222021,Saint Mary's (CA),62,-110,Notre Dame,59,-110
 t11222021,Cal Poly,72,200,Nicholls State,75,-240
 t11222021,Utah Valley,83,-650,Idaho,45,475
@@ -716,7 +678,6 @@ t11222021,Cincinnati,71,400,Illinois,51,-500
 t11222021,Arkansas,72,-300,Kansas State,64,250
 t11222021,Northwestern State,66,140,Louisiana-Monroe,96,-160
 t11222021,Sacred Heart,72,265,Stony Brook,75,-320
-t11222021,Albany (NY),61,NL,Kentucky,86,NL
 t11222021,Eastern Illinois,43,750,Eastern Kentucky,82,-1200
 t11222021,Lafayette,53,1100,Rutgers,51,-2500
 t11222021,Coppin State,62,750,Cleveland State,65,-1200
@@ -730,7 +691,6 @@ t11232021,Pennsylvania,61,105,Towson,76,-125
 t11232021,George Mason,69,135,Nevada,88,-155
 t11232021,Louisiana,79,175,Marshall,93,-200
 t11232021,Wofford,74,160,South Carolina,85,-180
-t11232021,Omaha,40,NL,Texas Tech,96,NL
 t11232021,Tennessee State,73,850,Nebraska,79,-1500
 t11232021,Washington,87,240,South Dakota State,76,-280
 t11232021,Northern Colorado,74,-170,San Jose State,75,150
@@ -755,7 +715,6 @@ t11232021,Bucknell,68,240,Mercer,78,-280
 t11232021,Texas A&M,57,-140,Butler,50,120
 t11232021,Wisconsin,65,290,Houston,63,-350
 t11232021,Oregon,50,-150,Saint Mary's (CA),62,130
-t11232021,Chaminade,64,1200,Notre Dame,90,-3000
 t11232021,Georgia,62,320,Northwestern,78,-380
 t11232021,Virginia,58,105,Providence,40,-125
 t11232021,Stephen F. Austin,79,190,Buffalo,78,-220
@@ -821,7 +780,6 @@ t11242021,Buffalo,106,-500,Illinois State,90,400
 t11242021,Stephen F. Austin,68,155,Saint Louis,79,-175
 t11242021,Houston,78,-210,Oregon,49,180
 t11242021,Wisconsin,61,-140,Saint Mary's (CA),55,120
-t11242021,Butler,84,-1600,Chaminade,51,900
 t11242021,Texas A&M,73,150,Notre Dame,67,-170
 t11242021,Cal Poly,67,-260,Idaho,63,220
 t11242021,Nicholls State,63,100,Utah Valley,74,-120
@@ -841,7 +799,6 @@ t11242021,Hampton,52,425,South Florida,58,-550
 t11242021,Massachusetts-Lowell,81,400,Massachusetts,92,-500
 t11242021,Colgate,84,-180,Harvard,89,160
 t11242021,Boston University,80,1000,Florida State,81,-2000
-t11242021,Houston Christian,40,NL,Oklahoma,57,NL
 t11242021,Florida A&M,53,550,UTEP,67,-800
 t11242021,Jacksonville,44,650,Minnesota,55,-1000
 t11242021,Texas Southern,64,1100,Brigham Young,81,-2500
@@ -908,7 +865,7 @@ t11262021,Austin Peay,69,125,Howard,67,-145
 t11262021,Presbyterian,75,-330,Central Arkansas,66,270
 t11262021,Longwood,61,175,Old Dominion,62,-200
 t11262021,Mississippi Valley State,58,2500,Mississippi,73,-8000
-t11262021,Southeastern Louisiana,66,170,IPFW,74,-190
+t11262021,Southeastern Louisiana,66,170,Purdue Fort Wayne,74,-190
 t11262021,Florida A&M,49,550,UC Riverside,60,-800
 t11262021,Lehigh,43,1000,Virginia,61,-2000
 t11262021,Western Michigan,67,500,Florida Gulf Coast,77,-700
@@ -916,12 +873,10 @@ t11262021,Eastern Kentucky,77,700,West Virginia,80,-1100
 t11262021,North Florida,52,1300,Kentucky,86,-3000
 t11262021,Alcorn State,59,750,Southern Illinois,62,-1200
 t11262021,Arkansas-Pine Bluff,50,925,Pacific,74,-1700
-t11272021,Saint Peter's,71,NL,Providence,85,NL
 t11272021,Indiana State,75,-105,Ball State,97,-115
 t11272021,Tennessee-Martin,66,1100,Western Kentucky,81,-1800
 t11272021,Rutgers,83,-140,Massachusetts,85,120
 t11272021,Robert Morris,70,750,Davidson,88,-1200
-t11272021,South Dakota,70,NL,Nebraska,83,NL
 t11272021,Oklahoma,65,-120,Central Florida,62,100
 t11272021,Louisiana Tech,81,155,NC State,90,-175
 t11272021,Monmouth,61,450,Cincinnati,59,-600
@@ -930,28 +885,21 @@ t11272021,Northern Iowa,90,400,St. Bonaventure,80,-525
 t11272021,Detroit Mercy,84,265,Hofstra,98,-330
 t11272021,Southeast Missouri State,68,-120,Portland,74,100
 t11272021,Miami (OH),67,-150,Western Illinois,79,130
-t11272021,College of Charleston,68,NL,Chattanooga,66,NL
 t11272021,Georgia State,59,225,Rhode Island,94,-275
 t11272021,Idaho State,48,120,Air Force,59,-140
 t11272021,Lamar,57,1450,Texas Tech,89,-3000
-t11272021,IPFW,85,150,Western Michigan,93,-170
-t11272021,UCLA,73,NL,Nevada-Las Vegas,51,NL
+t11272021,Purdue Fort Wayne,85,150,Western Michigan,93,-170
 t11272021,Denver,68,500,Utah Valley,77,-700
 t11272021,Northeastern,57,110,Harvard,77,-130
 t11272021,SIU Edwardsville,65,1250,Creighton,70,-2500
 t11272021,Grand Canyon,59,-165,Pepperdine,56,145
-t11272021,Marshall,79,NL,Indiana,90,NL
 t11272021,Delaware,74,145,Temple,75,-165
 t11272021,UC Irvine,69,135,Santa Clara,64,-155
 t11272021,Eastern Washington,76,1150,Washington State,71,-2200
 t11272021,Sacramento State,59,1500,Arizona,105,-3500
-t11272021,Morehead State,70,NL,Kansas City,62,NL
 t11272021,Northern Illinois,66,1400,Marquette,80,-2800
-t11272021,Idaho,73,NL,North Dakota State,90,NL
 t11272021,UT Arlington,61,750,Utah State,80,-1200
-t11272021,Weber State,87,NL,Utah Tech,70,NL
 t11272021,Brigham Young,75,-120,Utah,64,100
-t11272021,St. Thomas (MN),64,NL,Seattle,81,NL
 t11272021,Maryland,55,-140,Louisville,63,120
 t11272021,Richmond,71,-140,Mississippi State,82,120
 t11272021,Penn State,60,-105,Oregon State,45,-115
@@ -960,20 +908,14 @@ t11272021,Jackson State,75,550,Louisiana,70,-800
 t11272021,Montana State,83,-550,Incarnate Word,64,425
 t11272021,Marist,61,160,Army,65,-180
 t11272021,Jacksonville State,93,-140,Elon,81,120
-t11272021,Delaware State,65,NL,Long Island University,99,NL
-t11272021,Western Carolina,59,NL,Gardner-Webb,87,NL
 t11272021,Maryland-Baltimore County,87,200,Pittsburgh,77,-240
 t11272021,Navy,67,-155,Mount St. Mary's,40,135
 t11272021,Campbell,60,-135,Stetson,58,115
 t11272021,Maine,39,800,Bradley,71,-1300
-t11272021,NJIT,68,NL,St. John's (NY),77,NL
 t11272021,Coppin State,68,800,East Carolina,70,-1300
 t11272021,Furman,87,-1400,South Carolina Upstate,77,850
-t11272021,New Hampshire,70,NL,Holy Cross,55,NL
 t11272021,Maryland-Eastern Shore,61,1450,Liberty,73,-3000
-t11272021,Vermont,51,NL,UNC Greensboro,54,NL
 t11272021,Southeastern Louisiana,71,325,Florida Gulf Coast,90,-425
-t11272021,Prairie View,80,NL,Loyola Marymount,83,NL
 t11272021,Winthrop,82,190,Washington,74,-230
 t11272021,St. Francis (NY),67,-160,North Carolina A&T,73,140
 t11272021,McNeese State,75,-240,Samford,83,200
@@ -982,7 +924,6 @@ t11282021,Southeast Missouri State,68,-230,Montana State,75,190
 t11282021,Chicago State,57,1150,Bowling Green State,75,-2200
 t11282021,Eastern Michigan,63,475,DePaul,101,-650
 t11282021,James Madison,69,-115,Florida Atlantic,65,-105
-t11282021,Rider,58,NL,South Carolina,65,NL
 t11282021,Evansville,70,-270,Eastern Illinois,54,220
 t11282021,Louisiana-Monroe,67,950,Southern Methodist,74,-1600
 t11282021,Kansas City,55,167,Arkansas State,66,-192
@@ -1008,7 +949,6 @@ t11282021,American,79,400,Duquesne,88,-525
 t11282021,Alcorn State,61,425,Milwaukee,57,-550
 t11282021,Loyola (MD),75,260,Fairfield,70,-320
 t11282021,Siena,56,-110,Bucknell,65,-110
-t11282021,The Citadel,91,NL,South Carolina State,79,NL
 t11282021,Portland,77,-280,Incarnate Word,68,230
 t11282021,Southern,82,105,Tennessee State,80,-125
 t11282021,Charleston Southern,52,195,Kennesaw State,89,-235
@@ -1017,7 +957,7 @@ t11282021,Fairleigh Dickinson,79,800,Princeton,89,-1300
 t11282021,Stephen F. Austin,72,-950,Northwestern State,68,625
 t11282021,Eastern Kentucky,75,-235,Radford,88,195
 t11282021,North Alabama,81,-145,Alabama State,69,125
-t11282021,IPFW,78,255,Florida Gulf Coast,85,-315
+t11282021,Purdue Fort Wayne,78,255,Florida Gulf Coast,85,-315
 t11282021,Saint Francis (PA),79,140,Lehigh,68,-160
 t11282021,Hampton,61,-185,Norfolk State,70,165
 t11282021,Grambling,74,-192,Morgan State,59,167
@@ -1150,32 +1090,20 @@ t12012021,Texas A&M-Corpus Christi,83,160,Texas-Rio Grande Valley,77,-180
 t12012021,Mississippi Valley State,58,1100,North Alabama,72,-2500
 t12012021,McNeese State,62,700,Seattle,78,-1100
 t12022021,Northern Kentucky,58,155,Cleveland State,72,-175
-t12022021,Wright State,86,NL,IPFW,73,NL
-t12022021,Detroit Mercy,69,NL,IUPUI,45,NL
 t12022021,Montana State,75,120,Northern Colorado,77,-140
 t12022021,Oral Roberts,63,320,TCU,71,-400
-t12022021,Lamar,60,NL,Mississippi State,75,NL
 t12022021,Oakland,81,-225,Illinois-Chicago,77,185
 t12022021,Robert Morris,58,115,Green Bay,70,-135
 t12022021,Youngstown State,70,175,Milwaukee,68,-210
-t12022021,Denver,64,NL,Wyoming,77,NL
-t12022021,Northern Arizona,44,NL,Weber State,67,NL
-t12022021,Valparaiso,66,NL,Drake,73,NL
 t12022021,Portland State,63,200,Idaho State,55,-240
-t12022021,Southern Utah,89,NL,Eastern Washington,76,NL
-t12022021,UTSA,71,NL,Grand Canyon,74,NL
 t12022021,Saint Mary's (CA),60,100,Utah State,58,-120
 t12022021,Montana,65,-192,Sacramento State,58,167
 t12022021,Cal Poly,55,400,California Baptist,64,-525
-t12022021,Eastern Michigan,74,NL,UC San Diego,83,NL
-t12022021,Oregon State,61,NL,California,73,NL
 t12022021,Sacred Heart,74,115,Lafayette,67,-135
 t12022021,Fairleigh Dickinson,65,600,Drexel,86,-900
 t12022021,Long Island University,63,375,Towson,72,-500
 t12022021,Missouri,45,170,Liberty,66,-200
-t12022021,Delaware,59,NL,Delaware State,48,NL
 t12022021,Jacksonville,67,-175,Charleston Southern,56,155
-t12022021,Lipscomb,65,NL,Belmont,94,NL
 t12032021,Notre Dame,57,-210,Boston College,73,180
 t12032021,College of Charleston,88,250,Furman,91,-300
 t12032021,Rutgers,51,320,Illinois,86,-380
@@ -1207,7 +1135,7 @@ t12042021,Clemson,75,120,Miami (FL),80,-140
 t12042021,Oakland,78,-1200,IUPUI,45,750
 t12042021,Marquette,76,240,Wisconsin,89,-280
 t12042021,Miami (OH),68,-145,Indiana State,69,125
-t12042021,Northern Kentucky,57,-135,IPFW,71,115
+t12042021,Northern Kentucky,57,-135,Purdue Fort Wayne,71,115
 t12042021,Eastern Washington,92,-190,Omaha,81,170
 t12042021,San Diego State,58,330,Michigan,72,-400
 t12042021,Northern Illinois,41,900,Dayton,79,-1600
@@ -1386,7 +1314,7 @@ t12082021,Utah,62,120,TCU,76,-140
 t12082021,Dayton,69,170,Southern Methodist,77,-190
 t12082021,Buffalo,77,130,Western Kentucky,67,-150
 t12082021,Eastern Washington,57,850,Colorado,60,-1500
-t12082021,IPFW,59,-130,SIU Edwardsville,80,110
+t12082021,Purdue Fort Wayne,59,-130,SIU Edwardsville,80,110
 t12082021,Michigan State,75,-310,Minnesota,67,260
 t12082021,Air Force,48,250,Montana,66,-300
 t12082021,Towson,74,600,Ohio State,85,-900
@@ -1457,7 +1385,7 @@ t12112021,Syracuse,75,-180,Georgetown,79,160
 t12112021,Temple,49,-125,Saint Joseph's,68,105
 t12112021,Western Michigan,64,375,Detroit Mercy,83,-450
 t12112021,Florida International,88,100,Eastern Michigan,92,-120
-t12112021,Southeast Missouri State,65,175,IPFW,78,-200
+t12112021,Southeast Missouri State,65,175,Purdue Fort Wayne,78,-200
 t12112021,Charlotte,68,170,Valparaiso,67,-190
 t12112021,Arkansas,66,-120,Oklahoma,88,100
 t12112021,Georgia Southern,68,180,Mercer,77,-210
@@ -1600,13 +1528,9 @@ t12142021,UC Santa Barbara,71,-185,Pacific,80,165
 t12142021,Southeastern Louisiana,60,1400,Louisville,86,-4000
 t12142021,Central Connecticut State,67,650,Stony Brook,87,-1000
 t12142021,North Carolina A&T,69,475,East Tennessee State,67,-650
-t12142021,South Carolina Upstate,52,NL,Tennessee,96,NL
 t12142021,Alabama A&M,57,450,Troy,66,-600
 t12142021,Florida A&M,50,1000,Cincinnati,77,-2000
-t12142021,Northwestern State,49,NL,Louisiana State,89,NL
 t12142021,Saint Francis (PA),81,115,Hartford,66,-135
-t12142021,Grambling,61,NL,UAB,79,NL
-t12142021,South Carolina State,62,NL,Duke,103,NL
 t12142021,Jacksonville,62,-170,Southern Mississippi,51,150
 t12142021,Jackson State,56,700,Northern Iowa,66,-1100
 t12142021,Coppin State,69,550,Drexel,76,-800
@@ -1614,8 +1538,6 @@ t12142021,Texas A&M-Corpus Christi,71,750,Minnesota,79,-1200
 t12142021,Alcorn State,63,950,Wichita State,82,-1800
 t12142021,UNC Asheville,68,-175,Tennessee-Martin,79,155
 t12142021,Texas Southern,70,-135,Texas-Rio Grande Valley,60,115
-t12142021,Arkansas-Pine Bluff,31,NL,Texas,63,NL
-t12142021,North Alabama,44,NL,Auburn,70,NL
 t12152021,Chattanooga,68,195,Belmont,76,-230
 t12152021,Marshall,65,155,Ohio,75,-175
 t12152021,Florida Atlantic,46,400,Virginia Commonwealth,66,-500
@@ -1628,7 +1550,6 @@ t12152021,Lamar,47,800,Texas State,67,-1400
 t12152021,Morehead State,63,850,Xavier,86,-1500
 t12152021,Cal State Bakersfield,59,330,Abilene Christian,69,-400
 t12152021,UC Irvine,61,425,Southern California,66,-550
-t12152021,Northern Colorado,76,NL,Arizona,101,NL
 t12152021,Utah State,95,-140,Weber State,80,120
 t12152021,Portland,71,1000,Oregon,96,-2000
 t12152021,UC San Diego,56,-180,Denver,64,160
@@ -1691,7 +1612,6 @@ t12182021,Utah,75,-155,Missouri,83,135
 t12182021,Providence,57,270,Connecticut,53,-330
 t12182021,West Virginia,65,150,UAB,59,-170
 t12182021,Buffalo,64,-1700,Canisius,65,925
-t12182021,California Baptist,60,NL,Arizona,84,NL
 t12182021,Dayton,68,135,Mississippi,76,-155
 t12182021,Oklahoma State,61,350,Houston,72,-420
 t12182021,Louisiana State,66,-550,Louisiana Tech,57,425
@@ -1713,7 +1633,6 @@ t12182021,Portland State,66,-150,Cal State Northridge,69,130
 t12182021,San Diego,69,-145,Northern Arizona,59,125
 t12182021,Loyola Marymount,63,220,Nevada,68,-260
 t12182021,North Carolina,69,130,Kentucky,98,-150
-t12182021,Elon,56,NL,Duke,87,NL
 t12182021,Saint Francis (PA),48,1800,Illinois,106,-8000
 t12182021,Hartford,65,-230,Central Connecticut State,75,195
 t12182021,Lamar,53,300,Texas A&M-Corpus Christi,57,-360
@@ -1736,7 +1655,6 @@ t12182021,Kennesaw State,84,200,Samford,85,-240
 t12182021,Northern Kentucky,68,210,Eastern Kentucky,81,-250
 t12182021,Central Arkansas,70,1800,Missouri State,106,-8000
 t12182021,Jacksonville State,59,1200,Alabama,65,-3000
-t12182021,North Carolina Central,86,NL,Delaware State,53,NL
 t12192021,Fairfield,73,125,Massachusetts,77,-145
 t12192021,UC Irvine,54,-270,Duquesne,76,230
 t12192021,Central Michigan,75,550,Detroit Mercy,89,-800
@@ -1770,13 +1688,10 @@ t12202021,Louisiana-Monroe,80,-240,Lamar,77,200
 t12202021,Kansas City,57,550,South Dakota State,89,-800
 t12202021,Oral Roberts,82,-180,South Dakota,73,160
 t12202021,St. Thomas (MN),80,-180,Omaha,73,160
-t12202021,Northern Arizona,49,NL,Gonzaga,95,NL
 t12202021,Western Illinois,84,-360,Denver,80,300
 t12202021,South Carolina State,74,500,The Citadel,57,-700
 t12202021,Delaware State,51,1500,Wagner,93,-5000
-t12202021,Alcorn State,57,NL,Baylor,94,NL
 t12202021,Maryland-Eastern Shore,54,550,Charlotte,70,-800
-t12202021,Incarnate Word,59,NL,Purdue,79,NL
 t12202021,Stetson,72,750,Miami (FL),82,-1200
 t12202021,Manhattan,99,-330,Charleston Southern,75,270
 t12212021,Southern Mississippi,67,550,East Carolina,68,-800
@@ -1786,7 +1701,6 @@ t12212021,Dartmouth,57,170,Cal State Bakersfield,61,-190
 t12212021,Manhattan,77,120,The Citadel,74,-140
 t12212021,Xavier,58,195,Villanova,71,-230
 t12212021,Appalachian State,50,800,North Carolina,70,-1400
-t12212021,Chicago State,48,NL,Iowa State,79,NL
 t12212021,Tennessee Tech,67,900,Cincinnati,76,-1600
 t12212021,Marshall,63,145,Toledo,95,-165
 t12212021,Eastern Illinois,55,600,Ball State,75,-900
@@ -1798,7 +1712,7 @@ t12212021,Bradley,87,-160,Sam Houston State,61,140
 t12212021,Michigan State,90,-500,Oakland,78,400
 t12212021,Delaware,72,250,Iona,83,-300
 t12212021,SIU Edwardsville,69,450,South Alabama,84,-600
-t12212021,Air Force,45,250,TarletonState,67,-300
+t12212021,Air Force,45,250,Tarleton State,67,-300
 t12212021,Georgia State,62,175,Georgia Tech,72,-200
 t12212021,Connecticut,78,-220,Marquette,70,190
 t12212021,Pepperdine,59,800,Oregon,68,-1400
@@ -1821,7 +1735,6 @@ t12212021,American,44,900,George Mason,67,-1600
 t12212021,Florida Atlantic,52,-210,High Point,55,180
 t12212021,Howard,69,250,Harvard,77,-300
 t12212021,Loyola Marymount,71,-150,Bellarmine,57,130
-t12212021,Southeastern Louisiana,62,NL,Iowa,93,NL
 t12212021,Grambling,55,1500,TCU,90,-5000
 t12212021,McNeese State,59,1100,Kansas State,74,-2500
 t12212021,Norfolk State,54,280,New Mexico,68,-340
@@ -1881,11 +1794,7 @@ t12222021,Bethune-Cookman,45,475,Marist,68,-650
 t12222021,Florida Gulf Coast,90,-250,Canisius,97,210
 t12222021,North Alabama,64,1100,Central Florida,75,-2500
 t12222021,Kennesaw State,74,600,Nebraska,88,-900
-t12222021,Mississippi Valley State,58,NL,UAB,100,NL
-t12222021,Alcorn State,48,NL,Oklahoma,72,NL
 t12222021,Longwood,58,250,Abilene Christian,74,-300
-t12222021,Lipscomb,60,NL,Louisiana State,95,NL
-t12222021,Alabama State,48,NL,Texas,68,NL
 t12232021,Fresno State,69,100,Weber State,43,-120
 t12232021,Liberty,76,110,Stanford,79,-130
 t12232021,Northern Iowa,69,115,Wyoming,71,-135
@@ -1898,10 +1807,6 @@ t12272021,Brown,62,375,Syracuse,93,-450
 t12282021,Notre Dame,68,-175,Pittsburgh,67,155
 t12282021,Fresno State,55,175,Boise State,65,-200
 t12282021,Yale,60,600,Saint Mary's (CA),87,-900
-t12282021,Alabama State,53,NL,Texas Tech,75,NL
-t12282021,North Alabama,63,NL,Gonzaga,93,NL
-t12282021,Northwestern State,68,NL,Baylor,104,NL
-t12282021,Incarnate Word,33,NL,Texas,78,NL
 t12282021,Lehigh,55,1500,Maryland,76,-5000
 t12282021,Grambling,64,1000,Southern Illinois,75,-2000
 t12292021,Utah State,47,-950,Air Force,49,625
@@ -1929,13 +1834,11 @@ t12292021,Arkansas,68,170,Mississippi State,81,-190
 t12292021,Tennessee,68,235,Alabama,73,-275
 t12292021,Nevada,61,1000,Kansas,88,-2000
 t12292021,High Point,68,1800,Michigan State,81,-8000
-t12292021,Nicholls State,90,NL,Purdue,104,NL
 t12292021,Wagner,72,-300,Saint Francis (PA),64,250
 t12292021,Gardner-Webb,77,250,Georgia,60,-300
 t12292021,Long Island University,65,-105,Sacred Heart,69,-115
 t12292021,Bryant,80,-600,Central Connecticut State,76,450
 t12292021,St. Francis (NY),64,195,Merrimack,74,-230
-t12292021,Central Arkansas,59,NL,Texas A&M,85,NL
 t12302021,Louisiana,71,165,Appalachian State,55,-185
 t12302021,Old Dominion,82,105,Florida International,77,-125
 t12302021,East Tennessee State,52,280,Chattanooga,82,-340
@@ -1967,13 +1870,11 @@ t12302021,Tarleton State,83,-135,Utah Tech,69,115
 t12302021,Eastern Washington,63,115,Portland State,58,-135
 t12302021,Cal State Fullerton,73,-105,Cal State Bakersfield,67,-115
 t12302021,UC Santa Barbara,83,-160,UC San Diego,85,140
-t12302021,IPFW,81,425,Cleveland State,90,-550
-t12302021,Maine,64,NL,Rutgers,80,NL
+t12302021,Purdue Fort Wayne,81,425,Cleveland State,90,-550
 t12302021,Alabama A&M,63,360,Lipscomb,66,-430
 t12312021,Northeastern,70,-500,William & Mary,71,400
 t12312021,Delaware,67,145,College of Charleston,66,-165
 t12312021,Niagara,68,-120,Quinnipiac,77,100
-t12312021,High Point,48,NL,Kentucky,92,NL
 t12312021,Sacred Heart,82,270,Bryant,85,-330
 t12312021,Long Island University,77,170,Merrimack,82,-190
 t12312021,Central Connecticut State,67,220,St. Francis (NY),55,-260
@@ -2083,7 +1984,7 @@ t01052022,DePaul,84,180,St. John's (NY),89,-210
 t01052022,VMI,79,110,East Tennessee State,80,-130
 t01052022,Samford,80,190,Mercer,83,-220
 t01052022,Virginia Commonwealth,53,170,Dayton,52,-190
-t01052022,IPFW,58,400,Cleveland State,65,-500
+t01052022,Purdue Fort Wayne,58,400,Cleveland State,65,-500
 t01052022,Davidson,88,-180,Saint Joseph's,73,160
 t01052022,Alabama,83,110,Florida,70,-130
 t01052022,The Citadel,90,100,Western Carolina,94,-120
@@ -2160,7 +2061,7 @@ t01072022,Nicholls State,87,-500,Incarnate Word,56,400
 t01072022,Marquette,92,-145,Georgetown,64,125
 t01072022,Kent State,72,270,Ohio,80,-330
 t01072022,Milwaukee,60,200,Detroit Mercy,85,-240
-t01072022,IPFW,71,180,Youngstown State,61,-210
+t01072022,Purdue Fort Wayne,71,180,Youngstown State,61,-210
 t01072022,Marist,60,155,Fairfield,51,-175
 t01072022,Cornell,65,170,Pennsylvania,79,-190
 t01072022,Cleveland State,78,-360,Robert Morris,77,300
@@ -2285,7 +2186,7 @@ t01082022,McNeese State,54,160,Texas A&M-Corpus Christi,67,-180
 t01092022,Southeastern Louisiana,77,195,Nicholls State,72,-230
 t01092022,Minnesota,60,475,Indiana,73,-650
 t01092022,Quinnipiac,66,175,Niagara,76,-200
-t01092022,IPFW,76,-120,Robert Morris,70,100
+t01092022,Purdue Fort Wayne,76,-120,Robert Morris,70,100
 t01092022,Cleveland State,86,-170,Youngstown State,80,150
 t01092022,Rider,79,290,Marist,75,-350
 t01092022,Fairfield,62,-175,Siena,69,155
@@ -2416,7 +2317,7 @@ t01132022,Ohio State,68,145,Wisconsin,78,-165
 t01132022,Northern Kentucky,68,140,Youngstown State,67,-160
 t01132022,Butler,72,-170,Georgetown,58,150
 t01132022,Florida Atlantic,57,155,Middle Tennessee,70,-175
-t01132022,Detroit Mercy,60,105,IPFW,62,-125
+t01132022,Detroit Mercy,60,105,Purdue Fort Wayne,62,-125
 t01132022,Wright State,75,-220,Robert Morris,73,190
 t01132022,Oklahoma State,57,270,Texas Tech,78,-330
 t01132022,Canisius,58,230,Niagara,68,-270
@@ -2474,7 +2375,7 @@ t01152022,Texas Tech,51,-200,Kansas State,62,175
 t01152022,Dayton,72,-170,Duquesne,52,150
 t01152022,Tennessee,79,180,Kentucky,107,-210
 t01152022,VMI,90,-110,The Citadel,85,-110
-t01152022,Oakland,76,-240,IPFW,68,200
+t01152022,Oakland,76,-240,Purdue Fort Wayne,68,200
 t01152022,Florida,71,-190,South Carolina,63,170
 t01152022,West Virginia,59,475,Kansas,85,-650
 t01152022,NC State,73,575,Duke,88,-850
@@ -2803,7 +2704,7 @@ t01212022,Illinois,65,-200,Maryland,81,175
 t01212022,Siena,68,105,Manhattan,75,-125
 t01212022,Saint Peter's,74,105,Niagara,68,-125
 t01212022,Rider,69,150,Canisius,70,-170
-t01212022,Robert Morris,62,250,IPFW,86,-300
+t01212022,Robert Morris,62,250,Purdue Fort Wayne,86,-300
 t01212022,St. Bonaventure,64,-275,Duquesne,56,235
 t01212022,Evansville,56,270,Illinois State,94,-330
 t01212022,Kent State,51,260,Buffalo,64,-310
@@ -2959,7 +2860,7 @@ t01232022,Manhattan,62,370,Monmouth,78,-440
 t01232022,Illinois State,53,-185,Evansville,56,165
 t01232022,Xavier,64,-130,Marquette,75,110
 t01232022,Fairfield,69,135,Marist,66,-155
-t01232022,Youngstown State,71,160,IPFW,82,-180
+t01232022,Youngstown State,71,160,Purdue Fort Wayne,82,-180
 t01232022,Iona,76,-370,Quinnipiac,61,310
 t01232022,Massachusetts,59,370,Saint Louis,90,-440
 t01232022,Robert Morris,68,700,Cleveland State,75,-1100
@@ -3172,7 +3073,7 @@ t01282022,Texas A&M-Corpus Christi,86,130,Southeastern Louisiana,71,-150
 t01282022,Pennsylvania,78,135,Harvard,74,-155
 t01282022,Wyoming,63,-330,Air Force,61,270
 t01282022,Rhode Island,51,205,Dayton,53,-245
-t01282022,IPFW,49,125,Northern Kentucky,59,-145
+t01282022,Purdue Fort Wayne,49,125,Northern Kentucky,59,-145
 t01282022,Canisius,67,475,Monmouth,72,-650
 t01282022,Manhattan,51,210,Saint Peter's,77,-250
 t01282022,Fairfield,76,-125,Rider,65,105
@@ -3278,7 +3179,6 @@ t01292022,Houston,63,-270,Central Florida,49,230
 t01292022,Tarleton State,79,-150,Texas-Rio Grande Valley,64,130
 t01292022,South Carolina,74,250,Texas A&M,63,-300
 t01292022,Austin Peay,58,180,Tennessee Tech,55,-210
-t01292022,Portland,72,NA,Gonzaga,104,NA
 t01292022,Eastern Washington,59,200,Montana,61,-240
 t01292022,Florida International,68,245,UTEP,79,-290
 t01292022,Cal Poly,48,650,UC Irvine,72,-1000
@@ -3292,7 +3192,6 @@ t01292022,Cal State Bakersfield,75,110,UC San Diego,83,-130
 t01292022,Stephen F. Austin,81,-125,California Baptist,77,105
 t01292022,UC Santa Barbara,62,105,Hawaii,65,-125
 t01292022,Lafayette,56,220,Army,60,-260
-t01292022,Maine,68,NA,Vermont,81,NA
 t01292022,High Point,72,270,Campbell,77,-330
 t01292022,Maryland-Baltimore County,70,-120,Binghamton,68,100
 t01292022,American,45,700,Navy,47,-1100
@@ -3325,7 +3224,7 @@ t01302022,Ohio State,78,375,Purdue,81,-450
 t01302022,Fordham,55,105,George Washington,64,-125
 t01302022,Cincinnati,60,-240,East Carolina,59,200
 t01302022,Cleveland State,72,-145,Northern Kentucky,78,125
-t01302022,IPFW,63,210,Wright State,75,-250
+t01302022,Purdue Fort Wayne,63,210,Wright State,75,-250
 t01302022,Minnesota,60,500,Wisconsin,66,-700
 t01302022,Saint Peter's,77,425,Iona,85,-550
 t01302022,Loyola (IL),68,-135,Drake,77,115
@@ -3531,7 +3430,7 @@ t02042022,Manhattan,74,175,Niagara,80,-200
 t02042022,Harvard,65,130,Brown,50,-150
 t02042022,Fairfield,56,250,Monmouth,59,-300
 t02042022,Iona,70,-650,Canisius,62,475
-t02042022,Milwaukee,60,175,IPFW,70,-200
+t02042022,Milwaukee,60,175,Purdue Fort Wayne,70,-200
 t02042022,San Diego State,57,500,Colorado State,58,-700
 t02042022,Toledo,83,-380,Ball State,93,320
 t02042022,Nevada,56,500,Fresno State,73,-700
@@ -3695,7 +3594,7 @@ t02062022,Iona,71,-350,Niagara,80,290
 t02062022,Siena,62,200,Fairfield,56,-240
 t02062022,Loyola (IL),71,-135,Missouri State,62,115
 t02062022,Marist,50,175,Saint Peter's,66,-200
-t02062022,Green Bay,55,400,IPFW,71,-500
+t02062022,Green Bay,55,400,Purdue Fort Wayne,71,-500
 t02062022,Monmouth,76,-180,Quinnipiac,63,160
 t02062022,Milwaukee,71,425,Cleveland State,84,-550
 t02062022,Nevada,63,800,San Diego State,65,-1400
@@ -3845,7 +3744,7 @@ t02102022,Arkansas State,77,130,Troy,79,-150
 t02102022,Old Dominion,48,190,Middle Tennessee,63,-220
 t02102022,Hofstra,83,-105,Drexel,73,-115
 t02102022,Elon,70,200,James Madison,66,-240
-t02102022,IUPUI,57,1800,IPFW,72,-8000
+t02102022,IUPUI,57,1800,Purdue Fort Wayne,72,-8000
 t02102022,Georgia State,61,-130,Coastal Carolina,50,110
 t02102022,Mercer,79,150,VMI,85,-170
 t02102022,The Citadel,66,250,UNC Greensboro,86,-300
@@ -3866,7 +3765,6 @@ t02102022,Southeast Missouri State,66,135,Austin Peay,74,-155
 t02102022,Tennessee Tech,73,-500,Eastern Illinois,62,400
 t02102022,Tennessee-Martin,63,-120,SIU Edwardsville,71,100
 t02102022,Murray State,73,-1200,Tennessee State,62,750
-t02102022,Pacific,51,NA,Gonzaga,89,NA
 t02102022,San Diego,57,800,Saint Mary's (CA),86,-1400
 t02102022,Idaho State,79,150,Idaho,70,-170
 t02102022,Weber State,67,-175,Eastern Washington,75,155
@@ -3990,7 +3888,7 @@ t02122022,DePaul,73,375,Providence,76,-450
 t02122022,Central Michigan,63,100,Western Michigan,77,-120
 t02122022,Canisius,70,210,Marist,71,-250
 t02122022,College of Charleston,79,105,UNC Wilmington,85,-125
-t02122022,Illinois-Chicago,66,180,IPFW,73,-210
+t02122022,Illinois-Chicago,66,180,Purdue Fort Wayne,73,-210
 t02122022,Arkansas State,51,210,South Alabama,70,-250
 t02122022,Western Carolina,57,850,Wofford,69,-1500
 t02122022,Notre Dame,76,100,Clemson,61,-120
@@ -4084,7 +3982,7 @@ t02142022,Eastern Illinois,54,525,Austin Peay,62,-750
 t02142022,West Virginia,73,145,Kansas State,78,-165
 t02142022,Niagara,70,115,Marist,77,-135
 t02142022,Canisius,76,220,Fairfield,80,-260
-t02142022,Cleveland State,98,-135,IPFW,102,115
+t02142022,Cleveland State,98,-135,Purdue Fort Wayne,102,115
 t02142022,Virginia,53,165,Virginia Tech,62,-185
 t02142022,Drexel,75,155,College of Charleston,79,-175
 t02142022,James Madison,60,200,Delaware,81,-240
@@ -4179,7 +4077,6 @@ t02162022,Southern Methodist,57,-155,Temple,64,135
 t02162022,Boise State,85,-500,Air Force,59,400
 t02162022,Grand Canyon,65,-150,California Baptist,60,130
 t02162022,Nevada-Las Vegas,60,195,Fresno State,57,-230
-t02162022,Gonzaga,86,NA,Pepperdine,66,NA
 t02162022,Presbyterian,55,-110,South Carolina Upstate,60,-110
 t02162022,Colgate,100,-310,Army,90,260
 t02162022,Campbell,67,-170,Radford,71,150
@@ -4221,7 +4118,6 @@ t02172022,Austin Peay,56,1200,Murray State,91,-3000
 t02172022,East Carolina,65,100,South Florida,57,-120
 t02172022,UTEP,63,375,Louisiana Tech,60,-450
 t02172022,Louisiana,78,-165,Louisiana-Monroe,77,145
-t02172022,Oregon State,69,NA,Arizona,83,NA
 t02172022,Abilene Christian,71,105,Sam Houston State,75,-125
 t02172022,Rice,68,700,UAB,92,-1100
 t02172022,Charlotte,67,320,Western Kentucky,77,-380
@@ -4232,7 +4128,6 @@ t02172022,Arkansas State,67,180,Texas State,84,-210
 t02172022,Little Rock,70,450,UT Arlington,85,-600
 t02172022,Oral Roberts,59,-105,North Dakota State,77,-115
 t02172022,Kansas City,80,-200,North Dakota,65,175
-t02172022,Eastern Illinois,57,NA,Belmont,81,NA
 t02172022,VMI,99,125,Samford,100,-145
 t02172022,St. Thomas (MN),60,450,South Dakota,81,-600
 t02172022,Southeast Missouri State,94,160,Tennessee Tech,98,-180
@@ -4280,7 +4175,7 @@ t02182022,Richmond,57,130,Virginia Commonwealth,77,-150
 t02182022,Cornell,59,-110,Dartmouth,71,-110
 t02182022,Missouri,49,475,Mississippi State,68,-650
 t02182022,Cleveland State,78,-250,Milwaukee,61,210
-t02182022,IPFW,74,-145,Green Bay,55,125
+t02182022,Purdue Fort Wayne,74,-145,Green Bay,55,125
 t02182022,Wright State,78,175,Oakland,74,-200
 t02192022,Maryland,90,-135,Nebraska,74,115
 t02192022,Wofford,69,190,Furman,70,-220
@@ -4437,7 +4332,7 @@ t02202022,East Carolina,66,375,Central Florida,69,-450
 t02202022,Quinnipiac,66,200,Marist,67,-240
 t02202022,Saint Peter's,70,-135,Siena,84,115
 t02202022,Rider,78,135,Manhattan,84,-155
-t02202022,IPFW,81,-180,Milwaukee,71,160
+t02202022,Purdue Fort Wayne,81,-180,Milwaukee,71,160
 t02202022,Temple,75,300,Cincinnati,71,-360
 t02202022,George Mason,47,-240,Fordham,50,200
 t02202022,Marquette,82,100,Creighton,83,-120
@@ -4586,7 +4481,7 @@ t02242022,Robert Morris,64,425,Northern Kentucky,78,-550
 t02242022,UNC Wilmington,69,190,Drexel,63,-220
 t02242022,Elon,81,750,Hofstra,55,-1200
 t02242022,Marshall,65,230,Middle Tennessee,74,-270
-t02242022,IPFW,81,210,Oakland,70,-250
+t02242022,Purdue Fort Wayne,81,210,Oakland,70,-250
 t02242022,Youngstown State,71,250,Wright State,84,-300
 t02242022,Siena,78,125,Quinnipiac,71,-145
 t02242022,Temple,64,525,Memphis,78,-750
@@ -4663,7 +4558,7 @@ t02262022,Florida,84,-440,Georgia,72,370
 t02262022,Purdue,65,-210,Michigan State,68,180
 t02262022,Duquesne,54,600,Rhode Island,70,-900
 t02262022,Furman,94,-420,The Citadel,59,350
-t02262022,IPFW,81,135,Detroit Mercy,78,-155
+t02262022,Purdue Fort Wayne,81,135,Detroit Mercy,78,-155
 t02262022,Butler,56,320,Marquette,64,-380
 t02262022,Vanderbilt,69,230,Mississippi State,74,-270
 t02262022,William & Mary,67,1100,Hofstra,83,-2500
@@ -4959,7 +4854,7 @@ t03032022,UT Arlington,64,145,Louisiana,67,-170
 t03032022,Little Rock,75,525,South Alabama,71,-750
 t03032022,Louisiana-Monroe,77,195,Arkansas State,81,-245
 t03032022,Georgia Southern,70,215,Coastal Carolina,64,-265
-t03032022,Illinois-Chicago,72,205,IPFW,78,-255
+t03032022,Illinois-Chicago,72,205,Purdue Fort Wayne,78,-255
 t03032022,Detroit Mercy,59,160,Northern Kentucky,77,-190
 t03032022,Oakland,63,170,Wright State,75,-200
 t03032022,Robert Morris,67,450,Cleveland State,83,-600
@@ -5114,40 +5009,12 @@ t03052022,South Carolina Upstate,70,255,Longwood,79,-315
 t03052022,Gardner-Webb,67,120,Winthrop,76,-140
 t03052022,Mount St. Mary's,69,230,Bryant,70,-280
 t03062022,Long Island University,62,265,Wagner,82,-330
-t03062022,Penn State,58,NA,Rutgers,59,NA
-t03062022,Houston,61,NA,Memphis,75,NA
-t03062022,Michigan,75,NA,Ohio State,69,NA
-t03062022,Nebraska,74,NA,Wisconsin,73,NA
-t03062022,Central Florida,72,NA,Tulsa,73,NA
-t03062022,South Florida,47,NA,Temple,75,NA
-t03062022,Tulane,68,NA,Southern Methodist,74,NA
-t03062022,Maryland,67,NA,Michigan State,77,NA
-t03062022,Iowa,72,NA,Illinois,74,NA
-t03062022,Minnesota,62,NA,Northwestern,75,NA
-t03062022,Northeastern,61,NA,Towson,68,NA
-t03062022,Delaware,66,NA,Drexel,56,NA
-t03062022,Elon,58,NA,UNC Wilmington,75,NA
-t03062022,College of Charleston,92,NA,Hofstra,76,NA
-t03062022,Loyola (IL),64,NA,Drake,58,NA
-t03062022,Wofford,56,NA,Chattanooga,79,NA
-t03062022,Samford,68,NA,Furman,71,NA
-t03062022,Louisiana,66,NA,Troy,57,NA
-t03062022,Georgia State,71,NA,Appalachian State,66,NA
-t03062022,South Dakota,74,NA,Kansas City,61,NA
-t03062022,Western Illinois,68,NA,Oral Roberts,80,NA
-t03062022,Winthrop,58,NA,Longwood,79,NA
-t03062022,Lehigh,61,NA,Colgate,81,NA
-t03062022,Boston University,80,NA,Navy,85,NA
-t03062022,NJIT,59,NA,Vermont,98,NA
-t03062022,Massachusetts-Lowell,85,NA,Maryland-Baltimore County,93,NA
-t03062022,Binghamton,72,NA,New Hampshire,69,NA
-t03072022,Albany (NY),49,NA,Hartford,61,NA
 t03072022,Delaware,69,230,Towson,56,-280
 t03072022,College of Charleston,57,-130,UNC Wilmington,60,110
 t03072022,South Dakota,60,255,South Dakota State,83,-315
 t03072022,Oral Roberts,72,135,North Dakota State,92,-160
 t03072022,Wright State,82,100,Cleveland State,67,-120
-t03072022,Northern Kentucky,57,-130,IPFW,43,110
+t03072022,Northern Kentucky,57,-130,Purdue Fort Wayne,43,110
 t03072022,Furman,63,100,Chattanooga,64,-120
 t03072022,Louisiana,71,110,Georgia State,80,-130
 t03072022,San Francisco,71,605,Gonzaga,81,-855
@@ -5416,7 +5283,7 @@ t03192022,Saint Mary's (CA),56,135,UCLA,72,-155
 t03192022,Oregon,60,160,Texas A&M,75,-180
 t03192022,Virginia Commonwealth,74,175,Wake Forest,80,-200
 t03192022,Northern Iowa,71,180,Brigham Young,90,-210
-t03192022,IPFW,65,400,Drake,87,-500
+t03192022,Purdue Fort Wayne,65,400,Drake,87,-500
 t03192022,UNC Asheville,80,250,Stephen F. Austin,68,-300
 t03192022,California Baptist,58,220,Middle Tennessee,64,-260
 t03192022,Rice,64,240,Ohio,65,-280
