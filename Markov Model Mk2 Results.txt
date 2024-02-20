@@ -1,0 +1,3 @@
+Prediction Accuracy: 60.86%
+Profit (Units/Game): -0.0422 (-4.22%)
+Cumulative Profit (Units): -225.29
